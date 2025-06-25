@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\models\\categoriesproductviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:models\\categoriesproductviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\shippers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\shippers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesProductViewModels.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\CategoriesProductViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriesProductViewModels.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\CategoriesProductViewModels.cs",
+              "RelativeToolTip": "Models\\CategoriesProductViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:55:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T06:12:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T05:30:26.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T05:28:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Models\\Suppliers.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Suppliers.cs",
+              "RelativeToolTip": "Models\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:52:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:41:01.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:31:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T03:30:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:29:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:24:26.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Shippers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shippers\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Shippers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shippers\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:23:13.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:21:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:09:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:06:01.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShippersController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ShippersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShippersController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ShippersController.cs",
+              "RelativeToolTip": "Controllers\\ShippersController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:03:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:00:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:00:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:00:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:58:58.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:55:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:57:07.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
