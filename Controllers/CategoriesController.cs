@@ -21,13 +21,7 @@ namespace NorthwindStore.Controllers
         // GET: Categories
         public async Task<IActionResult> Index()
         {
-            var viewModel = new CategoryProductViewModel
-            {
-                Categories = await _context.Categories.ToListAsync(),
-                Products = await _context.Products.ToListAsync()
-            };
-            return View(viewModel);
-            //return View(await _context.Categories.ToListAsync());
+            return View(await _context.Categories.ToListAsync());
         }
 
         public async Task<IActionResult> GetPicture(int id)
@@ -35,7 +29,7 @@ namespace NorthwindStore.Controllers
             //取得某個商品分類的圖片
             var cate = await _context.Categories.FindAsync(id);
 
-            if (cate == null || cate.Picture == null || cate.Picture.Length == 0)
+            if (cate == null)
             {
                 return NotFound(); // 如果找不到圖片，返回404 Not Found
             }

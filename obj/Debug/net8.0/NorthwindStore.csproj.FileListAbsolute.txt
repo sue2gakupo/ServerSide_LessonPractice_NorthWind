@@ -281,3 +281,4 @@ H:\ServerSide_LessonPractice_NorthWind\NorthWind\bin\Debug\net8.0\runtimes\win\l
 H:\ServerSide_LessonPractice_NorthWind\NorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 H:\ServerSide_LessonPractice_NorthWind\NorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 H:\ServerSide_LessonPractice_NorthWind\NorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+H:\ServerSide_LessonPractice_NorthWind\NorthWind\obj\Debug\net8.0\NorthwindStore.sourcelink.json

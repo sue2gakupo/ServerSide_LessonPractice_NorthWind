@@ -30,3 +30,11 @@ namespace NorthWind.Controllers
         }
     }
 }
+
+
+///////////////////////////////////
+//1.重新下載NuGet套件：
+
+
+//1.在Models資料夾中建立CategoriesProductViewModels.cs(ViewModel)，並定義Categories和Products的屬性。
+//2.在ViewData中放入Categories和Products的資料，然後在View中使用迴圈顯示這些資料。

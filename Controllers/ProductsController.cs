@@ -1,11 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using NorthWind.Models;
+using NorthwindStore.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace NorthwindStore.Controllers
 {
@@ -19,11 +20,35 @@ namespace NorthwindStore.Controllers
         }
 
         // GET: Products
-        public async Task<IActionResult> Index()
+        //public async Task<IActionResult> Index()
+        //{
+        //    var northwindContext = _context.Products.Include(p => p.Category).Include(p => p.Supplier);
+        //    return View(await northwindContext.ToListAsync());
+        //}
+
+
+        // 取得產品資料，預設顯示分類ID為1的資料
+        public async Task<IActionResult> IndexVMProduct(int cateID =1)
         {
-            var northwindContext = _context.Products.Include(p => p.Category).Include(p => p.Supplier);
-            return View(await northwindContext.ToListAsync());
+            // 必須先建立-類別： VMProduct （ViewModel），才能在此宣告並使用 VMProduct 物件
+            // 取得指定分類(cateID)下的所有產品，並整合所有分類資料到 ViewModel
+            VMProduct products = new VMProduct()
+            {
+                // 這裡的 p 代表 Products 資料表的每一筆產品，p.CategoryID 對應輸入參數cateID的產品分類
+                Product = await _context.Products.Where(p => p.CategoryID == cateID).ToListAsync(),
+                Category = await _context.Categories.ToListAsync()
+            };
+
+            // 在輸入參數(cateID)後，
+            // 從Categories資料表找到CategoryID，然後對應到CategoryName，就能在網頁呈現出CategoryName
+            ViewData["CateName"] =(await _context.Categories.FindAsync(cateID))?.CategoryName;
+
+            return View(products);// 會自動對應到 Views/Products/IndexVMProduct.cshtml
         }
+        //C# 透過 async 關鍵字讓方法可以「標示」為非同步，並用 await 關鍵字等待非同步作業（如資料庫查詢、檔案存取等）。
+        //這些語法會在編譯時自動轉換成狀態機，幫助簡化非同步程式的撰寫與維護。
+
+
 
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
