@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\\u82F1\u6587\u7248\u5317\u98A8.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:\u82F1\u6587\u7248\u5317\u98A8.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\views\\products\\indexvmproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:views\\products\\indexvmproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -44,6 +48,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|h:\\serverside_lessonpractice_northwind\\northwind\\\u82F1\u6587\u7248\u5317\u98A8.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{47B7E984-979F-4D89-BE2F-7044A05A8B66}|NorthwindStore.csproj|solutionrelative:\u82F1\u6587\u7248\u5317\u98A8.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,11 +61,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -66,122 +74,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T03:00:41.216Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Details.cshtml",
-              "RelativeToolTip": "Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T06:10:04.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAB0XAAAAAAAAAAAhwCwXAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-26T06:08:40.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAnwEUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T00:46:55.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Categories.cs",
-              "RelativeDocumentMoniker": "Models\\Categories.cs",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Categories.cs",
-              "RelativeToolTip": "Models\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T04:03:44.561Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IndexVMProduct.cshtml",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\IndexVMProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\IndexVMProduct.cshtml",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\IndexVMProduct.cshtml",
-              "RelativeToolTip": "Views\\Products\\IndexVMProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T03:47:35.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T03:35:14.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIBAwB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:38:37.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Employees.cs",
-              "RelativeDocumentMoniker": "Models\\Employees.cs",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Employees.cs",
-              "RelativeToolTip": "Models\\Employees.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T01:35:17.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Products.cs",
-              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "Models\\Products.cs",
-              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Products.cs",
-              "RelativeToolTip": "Models\\Products.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T01:08:49.629Z",
+              "Title": "\u82F1\u6587\u7248\u5317\u98A8.sql ",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\\u82F1\u6587\u7248\u5317\u98A8.sql",
+              "RelativeDocumentMoniker": "\u82F1\u6587\u7248\u5317\u98A8.sql",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\\u82F1\u6587\u7248\u5317\u98A8.sql",
+              "RelativeToolTip": "\u82F1\u6587\u7248\u5317\u98A8.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T02:57:01.566Z",
               "EditorCaption": ""
             },
             {
@@ -198,7 +102,114 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T06:10:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAB0XAAAAAAAAAAAhwCwXAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-26T06:08:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAnwEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:46:55.266Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Models\\Categories.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Categories.cs",
+              "RelativeToolTip": "Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:03:44.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexVMProduct.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\IndexVMProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\IndexVMProduct.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\IndexVMProduct.cshtml",
+              "RelativeToolTip": "Views\\Products\\IndexVMProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T03:47:35.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T03:35:14.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBAwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:38:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:35:17.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:08:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "VMProduct.cs",
               "DocumentMoniker": "H:\\ServerSide_LessonPractice_NorthWind\\NorthWind\\ViewModels\\VMProduct.cs",
               "RelativeDocumentMoniker": "ViewModels\\VMProduct.cs",
@@ -206,8 +217,7 @@
               "RelativeToolTip": "ViewModels\\VMProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T00:40:57.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T00:40:57.68Z"
             }
           ]
         }
